@@ -1,0 +1,7 @@
+C:\Users\RenéArturo\Documents\visual studio 2017\Projects\SistemaGimnasios\DAOGimnasios\bin\Debug\DAOGimnasios.dll
+C:\Users\RenéArturo\Documents\visual studio 2017\Projects\SistemaGimnasios\DAOGimnasios\bin\Debug\DAOGimnasios.pdb
+C:\Users\RenéArturo\Documents\visual studio 2017\Projects\SistemaGimnasios\DAOGimnasios\bin\Debug\MySql.Data.xml
+C:\Users\RenéArturo\Documents\visual studio 2017\Projects\SistemaGimnasios\DAOGimnasios\bin\Debug\MySql.Web.xml
+C:\Users\RenéArturo\Documents\visual studio 2017\Projects\SistemaGimnasios\DAOGimnasios\obj\Debug\DAOGimnasios.csprojResolveAssemblyReference.cache
+C:\Users\RenéArturo\Documents\visual studio 2017\Projects\SistemaGimnasios\DAOGimnasios\obj\Debug\DAOGimnasios.dll
+C:\Users\RenéArturo\Documents\visual studio 2017\Projects\SistemaGimnasios\DAOGimnasios\obj\Debug\DAOGimnasios.pdb
